@@ -1,249 +1,125 @@
-# 👋 Hi, I'm Moses Mwongela Benard
+# Hi there 👋 Welcome to My GitHub!
 
-### 🚀 Full-Stack Developer | Data Scientist | Blockchain Enthusiast | Tech Innovator
-
-> *Transforming ideas into intelligent solutions through code, data, and cutting-edge technology*
+I'm **Moses Mwongela Benard**, an IT professional with a passion for building robust solutions at the intersection of technology, data, and innovation.
 
 ---
 
-## 🎯 About Me
+## 🎓 About Me
 
-I'm a **Bachelor of Information Technology** graduate (Second Class Honours) with proven expertise in building end-to-end solutions across multiple domains. Passionate about leveraging technology to solve complex problems and drive business impact. My unique blend of skills in software development, data analytics, and emerging technologies positions me as a versatile tech professional ready for tomorrow's challenges.
+Bachelor of Information Technology graduate (Second Class Honours) from **South Eastern Kenya University** with hands-on experience across multiple domains. I'm driven by curiosity and the desire to solve real-world problems through technology. My journey spans from full-stack development to data-driven insights, with a keen interest in emerging technologies like cryptocurrency and blockchain.
 
-### 🌟 What Drives Me
-- 💡 **Innovation** - Exploring breakthrough technologies and novel solutions
-- 🎯 **Excellence** - Writing clean, scalable, and maintainable code
-- 🤝 **Collaboration** - Building amazing products with great teams
-- 📈 **Impact** - Creating solutions that matter and make a difference
-
----
-
-## 🛠️ Technical Arsenal
-
-### 🔵 **Languages & Core Technologies**
-```
-Python  •  JavaScript  •  TypeScript  •  Java  •  C++  •  SQL  •  Solidity
-```
-
-### 🎨 **Frontend Development**
-```
-React  •  Next.js  •  Vue.js  •  HTML5  •  CSS3  •  Tailwind CSS  •  Redux
-```
-
-### ⚙️ **Backend & Frameworks**
-```
-Node.js  •  Django  •  Flask  •  Express.js  •  FastAPI  •  Spring Boot
-```
-
-### 📊 **Data Science & Analytics**
-```
-Pandas  •  NumPy  •  Scikit-learn  •  TensorFlow  •  Matplotlib  •  Seaborn  •  Tableau  •  Power BI
-```
-
-### ⛓️ **Blockchain & Cryptocurrency**
-```
-Ethereum  •  Web3.js  •  Solidity  •  Smart Contracts  •  DeFi Protocols  •  Hardhat
-```
-
-### 🌐 **Networking & Infrastructure**
-```
-TCP/IP  •  DNS  •  VPN  •  Network Security  •  Linux Administration  •  Cloud Services
-```
-
-### 🗄️ **Databases**
-```
-MySQL  •  PostgreSQL  •  MongoDB  •  Firebase  •  Redis  •  Graph Databases
-```
-
-### 🚀 **DevOps & Tools**
-```
-Docker  •  Git  •  GitHub  •  CI/CD Pipelines  •  AWS  •  Azure  •  Linux
-```
+- 🔭 Currently exploring opportunities in coding, networking, and data analysis
+- 🌱 Continuously learning and expanding expertise in emerging technologies
+- 💬 Passionate about collaboration, innovation, and clean code
+- 🚀 Goal: Building impactful solutions that bridge technology and real-world applications
+- 🎓 **Institution:** South Eastern Kenya University
 
 ---
 
-## 💼 Core Expertise Areas
+## 💼 Core Competencies
 
-| Area | Highlights |
-|------|-----------|
-| **Full-Stack Development** | End-to-end web applications, RESTful APIs, microservices architecture |
-| **Data Analysis & Prediction** | Statistical modeling, machine learning, predictive analytics, business insights |
-| **Network Architecture** | Infrastructure design, security protocols, system optimization |
-| **Blockchain & Crypto** | Smart contracts, DeFi applications, Web3 development, tokenomics |
-| **Project Management** | Agile/Scrum, team leadership, deadline-driven delivery, stakeholder management |
-| **Cybersecurity** | Network security, data encryption, secure coding practices, vulnerability assessment |
+### Development & Engineering
+- **Programming Languages:** Python, JavaScript, TypeScript, Java, C++, SQL
+- **Web Development:** Full-stack development, API design, database architecture
+- **Networking:** Network configuration, protocols, infrastructure design
+- **Tools & Platforms:** Git, Docker, REST APIs, and modern development frameworks
 
----
+### Data & Analytics
+- **Data Analysis:** Statistical analysis, data visualization, insight generation
+- **Data Prediction:** Machine learning, predictive modeling, trend analysis
+- **Business Intelligence:** Data-driven decision making, analytics dashboards
 
-## 🚀 What I Build
-
-### 🌐 **Web & Mobile Applications**
-Full-featured web platforms with responsive design, real-time features, and enterprise-grade scalability
-
-### 📈 **Data-Driven Solutions**
-Intelligent systems that extract actionable insights from complex datasets and predict future trends
-
-### ⛓️ **Blockchain Projects**
-Smart contracts, decentralized applications (dApps), and innovative cryptocurrency solutions
-
-### 🔐 **Secure Systems**
-Network infrastructure and applications built with security-first principles
-
-### 📊 **Analytics Dashboards**
-Interactive dashboards and visualization tools for data-driven decision making
+### Specialized Domains
+- 🔐 **Cryptocurrency & Blockchain:** Smart contracts, distributed ledgers, crypto protocols
+- 📊 **Project Management:** Agile methodologies, team coordination, deadline management
+- 🛡️ **Cybersecurity:** Network security, data protection, best practices
 
 ---
 
-## 🎓 Education & Credentials
+## 🚀 What I Do
 
-- **Degree:** Bachelor of Information Technology
-- **Classification:** Second Class (Upper Division) Honours
-- **Focus Areas:** Software Engineering, Data Science, Networking, Cybersecurity
-- **Continuous Learning:** Always expanding expertise in emerging technologies
+✨ **Build** - Develop scalable applications and systems that solve real problems
 
----
+📈 **Analyze** - Extract meaningful insights from data to drive informed decisions
 
-## 🔥 Key Strengths
+🔗 **Connect** - Design robust networks and infrastructure for seamless communication
 
-✅ **Problem Solver** - Analytical mindset with ability to break down complex issues
+⛓️ **Innovate** - Explore cutting-edge technologies like blockchain and cryptocurrency
 
-✅ **Full-Stack Capability** - Comfortable across the entire development stack
-
-✅ **Data Proficiency** - Converting raw data into strategic insights
-
-✅ **Tech Adaptability** - Quick learner, adaptable to new technologies and frameworks
-
-✅ **Communication** - Clear articulation of technical concepts to diverse audiences
-
-✅ **Team Player** - Collaborative approach with strong interpersonal skills
-
-✅ **Innovation Mindset** - Exploring and implementing cutting-edge solutions
+🎯 **Manage** - Lead projects from conception to successful completion
 
 ---
 
-## 📂 Featured Work Areas
+## 🛠️ Tech Stack
 
-**Web Applications**
-- Scalable full-stack applications built with modern frameworks
-- Real-time data processing and interactive interfaces
-- Cloud-deployed solutions with CI/CD pipelines
+**Languages:** Python • JavaScript • TypeScript • Java • C++ • SQL
 
-**Data Analytics**
-- Machine learning models for prediction and classification
-- Statistical analysis and business intelligence dashboards
-- Big data processing and visualization
+**Frameworks & Libraries:** React • Node.js • Django • Flask
 
-**Blockchain Solutions**
-- Smart contract development and deployment
-- DeFi protocol implementations
-- Web3 integration and cryptocurrency applications
+**Data Tools:** Pandas • NumPy • Scikit-learn • Matplotlib • Tableau
 
-**Network Solutions**
-- Enterprise network architecture
-- Security implementations and optimization
-- Infrastructure automation
+**Blockchain & Crypto:** Ethereum • Web3.js • Smart Contracts
+
+**DevOps & Tools:** Git • Docker • Linux • Networking Protocols
+
+**Databases:** MySQL • PostgreSQL • MongoDB
 
 ---
 
-## 🎯 Current Focus & Interests
+## 📂 Featured Projects
 
-🔍 **Deepening expertise in:**
-- Advanced machine learning and AI applications
-- Blockchain technology and Web3 development
-- Cloud architecture and distributed systems
-- Cybersecurity and ethical hacking
+### 🔐 **CyNER** - Cybersecurity Named Entity Recognition
+Python library for extracting cybersecurity entities from threat intelligence reports. Enhanced with contributions for improved accuracy and performance.
 
-🚀 **Excited about:**
-- Emerging technologies and innovation
-- Open-source contributions
-- Mentoring junior developers
-- Building products that solve real-world problems
+### 💳 **WiFi-Pay Pro** - Hotspot M-Pesa Payment Solution
+Enterprise-grade WiFi monetization platform with M-Pesa integration. Open for resale and white-label customization for businesses across Africa.
 
----
+### 🧠 **LiffanAI** - Machine Learning & Data Analytics Platform
+Comprehensive ML and analytics framework for predictive modeling, business intelligence, and AI-powered decision-making.
 
-## 📊 Professional Highlights
-
-- 🏆 **Versatile Skill Set** - Spanning development, data science, and networking
-- 🌟 **Quality Focused** - Commitment to clean code and best practices
-- ⚡ **Results Driven** - Track record of delivering impactful solutions
-- 🤝 **Collaborative** - Effective team member and communicator
+*Check out my repositories below to explore my work in detail!*
 
 ---
 
-## 💡 Let's Connect & Collaborate!
+## 🎯 Current Focus
 
-I'm actively seeking exciting opportunities and collaborations. Whether it's full-time roles, freelance projects, open-source contributions, or just sharing ideas—let's connect!
+- 🔍 Deepening expertise in data prediction and machine learning
+- ⛓️ Exploring blockchain development and crypto innovation
+- 🌐 Building scalable networked systems
+- 📊 Creating data-driven applications
 
-### 📞 **Direct Contact**
+---
 
-| Platform | Contact |
-|----------|---------|
-| 📧 **Email** | [moseswizzy96@gmail.com](mailto:moseswizzy96@gmail.com) |
-| 💼 **LinkedIn** | [linkedin.com/in/moseswizzy96](https://linkedin.com/in/moseswizzy96) |
-| 📱 **WhatsApp** | [+254 703 514 345](https://wa.me/254703514345) |
-| 🌐 **Portfolio** | [www.liffandel.com](https://www.liffandel.com) |
-| 💻 **GitHub** | [@Liffan-del](https://github.com/Liffan-del) |
+## 📈 GitHub Stats
+
+```
+Passionate developer | Data enthusiast | Tech innovator | Cybersecurity Researcher
+```
+
+---
+
+## 💡 Let's Connect!
+
+I'm always interested in collaborating on interesting projects, sharing knowledge, and exploring new opportunities. Feel free to reach out!
+
+- 📧 **Email:** [moseswizzy96@gmail.com](mailto:moseswizzy96@gmail.com)
+- 📱 **WhatsApp:** [+254 703 514 345](https://wa.me/254703514345)
+- 🌐 **Portfolio:** [www.liffandel.com](https://www.liffandel.com)
+- 🎓 **Education:** South Eastern Kenya University
 
 ---
 
 ## 🤝 Open to Opportunities
 
-- 💼 **Full-time Positions** - Software Development, Data Science, DevOps, Blockchain
-- 🚀 **Freelance Projects** - Web development, data analysis, smart contracts, consulting
-- 🤖 **Open-Source** - Contributing to meaningful projects
-- 📚 **Knowledge Sharing** - Mentoring, speaking, and technical writing
-- 🔗 **Collaborations** - Building innovative solutions together
+- 💼 Full-time positions in software development, data science, or networking
+- 🚀 Freelance projects and consulting
+- 🤖 Open-source contributions
+- 📚 Knowledge sharing and mentoring
 
 ---
 
-## 📈 GitHub Activity & Stats
-
-```
-Active Developer | Open-Source Contributor | Tech Community Member
-```
-
-**Latest Projects:** Check out my repositories below for working examples across:
-- Full-stack web applications
-- Data science projects
-- Blockchain implementations
-- Networking solutions
-- Utility tools and libraries
+*"Technology is the canvas; innovation is the masterpiece."*
 
 ---
 
-## 🌟 My Philosophy
-
-> **"Code is poetry written for computers. Data is insight waiting to be discovered. Technology is the tool for building a better tomorrow."**
-
-I believe in:
-- **Quality over Quantity** - Better to build one excellent solution than many mediocre ones
-- **Continuous Growth** - The tech landscape evolves; so must we
-- **Practical Innovation** - Technology should solve real problems
-- **Collaborative Excellence** - Great products come from great teams
-
----
-
-## 🎁 Bonus: Quick Facts
-
-- 🌍 Based in Kenya, thinking globally
-- 🎮 Tech enthusiast outside of work too
-- 📚 Lifelong learner with insatiable curiosity
-- ☕ Powered by coffee and passion for technology
-- 🚀 Always up for a new challenge
-
----
-
-<div align="center">
-
-### **Let's Build Something Amazing Together! 🚀**
-
-[![Email](https://img.shields.io/badge/Email-moseswizzy96%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:moseswizzy96@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B254703514345-green?style=for-the-badge&logo=whatsapp)](https://wa.me/254703514345)
-[![Portfolio](https://img.shields.io/badge/Portfolio-liffandel.com-orange?style=for-the-badge&logo=globe)](https://www.liffandel.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-moseswizzy96-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/moseswizzy96)
-
----
-
-**Last Updated:** June 2026 | Built with ❤️ and a passion for technology
-
-</div>
+**Last updated:** June 2026 | Built with ❤️ and curiosity | South Eastern Kenya University
